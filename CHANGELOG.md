@@ -2,6 +2,10 @@
 
 Changes to the sample-only KUNEE Privacy Lab repository are recorded here.
 
+## 0.1.1-preview — licensed documentation prerelease
+
+- Licensed this repository's local-test documentation under MIT. No lab application or contract source was released.
+
 ## 0.1.0-preview — documentation-only prerelease
 
 This is a documentation-only prerelease, not a production release.

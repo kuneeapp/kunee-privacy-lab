@@ -2,6 +2,8 @@
 
 Thank you for helping improve the clarity and safety of this sample-only repository. Contributions are limited to its documentation and examples; this repository is not a distribution of the KUNEE application or contract source.
 
+By contributing, you agree to license your contributions to this repository under its [MIT License](./LICENSE). Only contribute work you have the right to license; this does not license the KUNEE application or its trademarks.
+
 ## Before proposing a change
 
 1. Keep changes focused, readable, and consistent with the lab's experimental scope.

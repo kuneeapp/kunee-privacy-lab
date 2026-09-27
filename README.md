@@ -6,7 +6,7 @@ This repository is a **sample-only documentation project** for the KUNEE privacy
 
 The privacy lab is an experimental learning and rehearsal space for privacy-oriented transaction concepts. Any browser lab uses an ephemeral local chain with chain ID `31337`. It has **no public mainnet access** and must not be treated as a way to interact with deployed contracts or public funds.
 
-This repository does not publish a production release, make a security or privacy guarantee, or grant a software license. Do not add secrets, wallet private material, recovery phrases, or private keys to this repository or to issues and pull requests.
+This repository does not publish a production release or make a security or privacy guarantee. Do not add secrets, wallet private material, recovery phrases, or private keys to this repository or to issues and pull requests.
 
 ## Contents
 
@@ -25,4 +25,8 @@ This repository does not publish a production release, make a security or privac
 
 Questions about this sample repository: [support@kunee.app](mailto:support@kunee.app).
 
-[Documentation preview release](https://github.com/kuneeapp/kunee-privacy-lab/releases/tag/v0.1.0-preview) · Not a production software release.
+## Open-source scope
+
+The material **in this repository** is available under the [MIT License](./LICENSE). Contributions to this repository are licensed the same way. The KUNEE application, unreleased source code, private infrastructure, and material outside this repository are **not** included. The license grants no rights to the KUNEE name or logos as trademarks and does not authorize use of any live service or operator-only contract.
+
+[Licensed documentation preview](https://github.com/kuneeapp/kunee-privacy-lab/releases/tag/v0.1.1-preview) · Not a production software release.
