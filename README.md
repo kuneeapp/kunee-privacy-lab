@@ -24,3 +24,5 @@ This repository does not publish a production release, make a security or privac
 - [KUNEE Contracts](https://github.com/kuneeapp/kunee-contracts)
 
 Questions about this sample repository: [support@kunee.app](mailto:support@kunee.app).
+
+[Documentation preview release](https://github.com/kuneeapp/kunee-privacy-lab/releases/tag/v0.1.0-preview) · Not a production software release.

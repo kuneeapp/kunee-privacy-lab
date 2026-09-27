@@ -2,9 +2,9 @@
 
 Changes to the sample-only KUNEE Privacy Lab repository are recorded here.
 
-## 0.1.0-preview — planned documentation-only prerelease
+## 0.1.0-preview — documentation-only prerelease
 
-This is a planned documentation-only prerelease entry, not a production release.
+This is a documentation-only prerelease, not a production release.
 
 - Added project overview, contribution guidance, and security reporting information.
 - Clarified that the browser lab uses an ephemeral chain with chain ID `31337` and has no public mainnet access.
